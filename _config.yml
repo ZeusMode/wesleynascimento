@@ -1,0 +1,41 @@
+# Site
+repository: zeusmode/wesleynascimento
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Wesley Nascimento
+title: Project Leader
+email: cintra.wesley@gmail.com
+website:
+
+# Social links
+twitter_username: wesley_cintra
+github_username:  ZeusMode
+facebook_username: wesleycnascimento
+instagram_username: zeusmode
+linkedin_username: wesley-cintra-98014722
+
+# More Section
+more_title: Um pouco mais sobre mim
+more_content: | # this will include new lines to allow paragraphs
+  Além dos meus interesses em computação, engenharia, hacking... aqui estão outras coisas que também são do meu interesse:
+   - Meu filho
+   - Viajar
+   - PS4
+   - Arduino
+
+# Footer
+footer_show_references: false
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+google_analytics: UA-126222426-1

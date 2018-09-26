@@ -1,0 +1,35 @@
+# Experience template
+- company: Mercado Livre
+  link: https://www.mercadolivre.com.br/
+  job_title: Supervisor de desenvolvimento
+  dates: Dezembro 2009 - Presente
+  quote: >
+    Open Platform
+  description: | # this will include new lines to allow paragraphs
+    Responsável pela equipe de desenvolvimento de Open Platform do Mercado Livre. A equipe é formada por desenvolvedores back e front, divididos em 2 centros (São Paulo e Córdoba).
+
+    A equipe desenvolve ferramentas que apoiam desenvolvedores terceiros a criarem ferramentas utilizando o ecossistema do Mercado Livre e possibilitando que essas empresas gerem negócios.
+
+    No Mercado Livre comecei como programador Jr., trabalhando com <mark>PHP</mark> e <mark>MySQL</mark> e pouco mais de 1 ano de empresa, fui promovido a programador Pl. e passei a integrar a equipe de Marketing, trabalhando na criação de landing pages, aplicativos para Facebook e Twitter, além da automatização de processos para campanhas de marketing.
+
+    Em meados de 2011, o Mercado Livre começou a sua revolução de tecnologia, transformando toda sua estrutura em <mark>micro-serviços</mark>, baseado em <mark>API's Restful</mark>. Inicialmente a linguagem escolhida era <mark>Grails</mark>, já que todo o background do site era em <mark>Java</mark> a migração não seria tão dolorosa. Tive a oportunidade de participar do início dessa revolução e contribuir para criação desses micro-serviços, foi onde comecei a aplicar <mark>MongoDB</mark>, com a separação em micro-serviços, as equipes ganharam autonomia e podiam escolher a melhor tecnologia para seus desenvolvimentos.
+
+    Por participar desde o início, pude realizar apresentações sobre a tecnologia do Mercado Livre para desenvolvedores, incentivando que os mesmos criassem seus negócios com nossas API's. Alguns vídeos podem ser encontrados no Youtube. <a href="https://www.youtube.com/watch?v=3uNEaRMNyPM">Link do vídeo</a>.
+
+- company: Consoft
+  link: 
+  job_title: Programador Jr.
+  dates: Outubro 2009 - Dezembro 2009
+  quote: >
+    Consultoria em desenvolvimento
+  description: | # this will include new lines to allow paragraphs
+    Eu era programador e trabalhava alocado no cliente, desenvolvimento de sistema em PHP com banco de dados MySQL.
+
+- company: TYR Consultores
+  link: 
+  job_title: Programador Jr.
+  dates: Maio 2008 - Outubro 2009
+  quote: >
+    Consultoria em desenvolvimento
+  description: | # this will include new lines to allow paragraphs
+    Eu era programador e desenvolvia sites institucionais, peças de email marketing e sistemas internos de empresas.

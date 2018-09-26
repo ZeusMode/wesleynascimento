@@ -1,0 +1,18 @@
+<div class="container intro-container">
+  <h3>{{ site.data.about.title | default: "Sobre mim" }}</h3>
+  <div class="row clearfix">
+    {%- if site.data.about.profile_image -%}
+      <div class="col-xs-12 col-sm-4 col-md-3">
+        <span class="profile-img" style="background-image: url({{ site.data.about.profile_image | relative_url }})" />
+      </div>
+    {%- endif -%}
+    <div class="col-xs-12 col-sm-8 col-md-9">
+      {%- if site.data.about.quote -%}
+        <p class="quote">{{ site.data.about.quote }}</p>
+      {%- endif -%}
+    </div>
+    <div class="{{ 'col-xs-12 ' }}{%- if site.data.about.profile_image -%}col-sm-8 col-md-9{%- endif -%}">
+      {{ site.data.about.content | strip | markdownify }}
+    </div>
+  </div>
+</div>

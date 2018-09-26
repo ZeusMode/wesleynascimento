@@ -1,0 +1,32 @@
+# Education Template
+- name: Fundação Getúlio Vargas
+  dates: 2015 - 2016
+  qualification: Curso de Especialização em Administração de empresas para graduados
+  quote: >
+    O Curso de Especialização em Administração para Graduados é o primeiro programa de MBA do Brasil e é acreditado pela AMBA. O CEAG alia teoria, prática e excelência em ensino para formar profissionais com visão global e atualizada de Administração.
+  description: | # this will include new lines to allow paragraphs
+    Iniciei o CEAG em um momento muito importante da minha carrerira profissional. Cerca de 6 meses antes de iniciar o curso, tive a oportunidade de vender minha primeira empresa <mark>TitanCommerce</mark> e isso me fez perceber o quanto eu poderia explorar do meu lado de negócio. 
+
+    Eu já tinha anos de experiência com linhas de programação, então, juntamente com meu grande amigo <mark>Rafael Prenzier</mark>, decidimos criar a empresa TitanCommerce, que em seu momento, resolvia uma deficiência importante de lojas virtuais. Alguns meses depois da nossa empresa estar funcionando e demostrando um grande valor, fomos comprados pelo Mercado Livre.
+
+    Infelizmente, com toda a mudança da rotina, me vi obrigado a pausar a especialização, porém, retomarei os estudos muito em breve.
+
+- name: Universidade Nove de Julho
+  dates: 2009 - 2012
+  qualification: Sistemas de Informação
+  quote: >
+    O curso forma profissionais das áreas de computação e de informática para atuação em pesquisa, gestão, desenvolvimento, uso e avaliação de tecnologias da informação aplicadas nas organizações.
+  description: | # this will include new lines to allow paragraphs
+    Mesmo já tendo cursado um curso na área de tecnologia, porém, muito focado em desenvolvimento, sentia a necessidade de conhecer um pouco mais de outras áreas da tecnologia e como eu poderia aplicar tais conhecimentos no meu dia a dia.
+
+    O curso foi extremamente importante para expandir minha visão sobre processos de gestão e pesquisa de tecnologias que ainda não estariam disponíveis para uso naqueles dias.
+
+- name: Universidade da Cidade de São Paulo
+  dates: 2006 - 2008
+  qualification: Tecnologia e Análise em Desenvolvimento de Software
+  quote: >
+    O curso forma profissionais da área de desenvolvimento com experiência em tecnologias Web e Desktop.
+  description: | # this will include new lines to allow paragraphs
+    O primeiro contato com programação a gente nunca esquece, não é mesmo? Porém, meu contato com programação foi antes da minha primeira graduação. Eu fiz colégio técnico em informática e dei meus primeiros passos em programação em 2002.
+
+    A importancia do curso foi na minha decisão de seguir por um caminho Web. Eu pesquisava muito sobre o futuro da tecnlogia e não vi um bom caminho para aplicações Desktop.

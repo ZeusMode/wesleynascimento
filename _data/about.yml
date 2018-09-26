@@ -1,0 +1,15 @@
+# About template
+profile_image: images/profile.png
+quote: >
+  Uma vez precisei me descrever e depois de alguns minutos, isso era o que estava no bloco de notas:
+
+  Programador por profissão e empreendedor por paixão. Engenheiro de software. Bacharel em sistemas de informação e especialização em desenvolvimento de software. Programador raiz que só comenta o código quando é gambiarra.
+content: | # this will include new lines to allow paragraphs
+  Oi, me chamo Wesley Nascimento.
+
+  Atualmente trabalho no maior Marketplace da América Latina, onde atuo como Líder de Desenvolvimento da equipe de Open Platform. 
+  Tenho mais de 12 anos de experiência com desenvolvimento e já passei por projetos com PHP, NodeJS, Java, Grails, Golang, React e bancos de dados como MySQL, MongoDB, PostgreSQL, ElasticSearch e Oracle. Tenho profundos conhecimentos em Key-Value Store, Cache, oAuth2.0, etc.
+
+  Em todos esses anos, tive a oportunidade de conhecer e aplicar metodologias ágeis como Scrum e Kanban, mas sinceramente, nunca vi um lugar que isso se aplique exatamente como descrito nos livros.
+
+  Dentro das minhas maiores habilidades estão: <mark>Golang</mark> e <mark>Comer pizza</mark>

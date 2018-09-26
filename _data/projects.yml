@@ -1,0 +1,34 @@
+# Project template
+- name: Mercado Livre & Google Assistant
+  link: https://assistant.google.com/services/a/uid/000000935ca47570?hl=pt-BR
+  github:
+  quote: >
+    Ok Google, quero falar com o Mercado Livre
+  description: | # this will include new lines to allow paragraphs
+    Em Julho de 2017, em um dia da semana qualquer, recebi uma excelente notícia, o Mercado Livre quer ter um Assistente de voz e você irá criá-lo. A novidade me contagiou, sempre gostei desse tipo de projeto onde praticamente ninguém havia explorado, ainda.
+    Comecei os estudos e chegamos até o Google Assistente, que havia liberado recentemente sua plataforma para empresas terceiras e foi onde tudo começou.
+
+    O desenvolvimento é basicamente em <mark>NodeJS</mark> utilizando as API's públicas do Mercado Livre e as ferramentas que o Google oferecia naquele momento eram bem básicas em questão de SDK's e documentação, tudo estava começando. 
+    Quando estava muito próximo de terminar a primeira versão do aplicativo, que contava apenas com busca e checagem de preço de produtos, recebi um convite muito especial, o Google me convidou para ir até a Califórnia e conversar com os engenheiros por trás do Assistente de voz.
+
+    <img src="images/eu-no-google.png">
+
+- name: SouVoluntario.org
+  link: 
+  github:
+  quote: >
+    Faça o bem não olhe a Quem.
+  description: | # this will include new lines to allow paragraphs
+    A ideia desse projeto começou em 2016 quando resolvi procurar algumas organizações que necessitavam trabalho voluntário para poder contribuir de alguma forma. E a ideia se criou quando percebi que essas empresas não tinham um lugar para concentrar essas oportunidades e onde as pessoas
+    que querem contribuir possam encontrar essas oportunidades.
+    Posso dizer que o SouVoluntario.org é uma rede social para que empresas e pessoas se encontrem e contribuam com o bem do nosso país.
+
+- name: AviseiQueIaDarMerda
+  link: 
+  github:
+  quote: >
+    Cara, isso ai vai dar problema lá na frente...
+  description: | # this will include new lines to allow paragraphs
+    Já parou pra pensar quantas vezes você ao ver uma determinada situação, calculou que isso daria muito problema em um futuro próximo ou distante e que realmente veio a acontecer depois? E que você depois fala para as pessoas envolvidas, eu AviseiQueIaDarMerda.
+
+    Resolvi criar esse projeto justamente para você registrar esse momento e que isso possa servir de prova! A ideia é que você registre esse fato e outra pessoas possam contribuir com votação, se elas acham que realmente vai acontecer ou não.
