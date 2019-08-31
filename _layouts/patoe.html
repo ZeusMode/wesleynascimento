@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+
+{%- include head.html -%}
+
+<body>
+    <div id="videopatoe"></div>
+  
+</body>
+{%- include google-analytics.html -%}
+<script type="text/javascript">
+    (function newFact() {
+      var videos = ['Sagg08DrO5U', 'kxopViU98Xo', 'O2ulyJuvU3Q', 'ZZ5LpwO-An4', 'f47eID9xjlI'];
+      var randomVideo = Math.floor(Math.random() * videos.length);
+
+      document.getElementById('videopatoe').innerHTML = '<iframe width="800" height="600" src="https://www.youtube.com/embed/'  + videos[randomVideo] + '?&autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>';
+    })();
+    </script>
+</html>

@@ -15,6 +15,10 @@
           <p class="quote">{{ experience.quote }}</p>
         {%- endif -%}
         {{ experience.description | strip | markdownify }}
+        {%- if experience.quote2 -%}
+          <p class="quote">{{ experience.quote2 }}</p>
+        {%- endif -%}
+        {{ experience.description2 | strip | markdownify }}
       </div>
     </div>
   {% endfor %}
